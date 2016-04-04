@@ -14,7 +14,7 @@ def main():
 
     print "Python version is " + sys.version
 
-    comm = snap.Snap()
+    comm = snap.Snap(funcs={})
     print "SNAP Connect version number " + str(comm.get_info(5)) + "." + str(comm.get_info(6)) + "." + str(comm.get_info(7))
 
     addr = comm.load_nv_param(2)
