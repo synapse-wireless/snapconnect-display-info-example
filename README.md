@@ -11,7 +11,7 @@ This short example application has no command-line parameters, and requires no c
 other than installing SNAPconnect as a dependency:
 
 ```bash
-pip install --extra-index-url https://update.synapse-wireless.com/pypi
+pip install --extra-index-url https://update.synapse-wireless.com/pypi snapconnect
 ```
     
 Once you have installed SNAPconnect, simply run:
