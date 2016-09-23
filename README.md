@@ -24,7 +24,7 @@ If SNAPconnect was installed correctly, you should see output that includes your
 your SNAPconnect version number, your SNAPconnect instance's SNAP address, and your SNAPconnect instance's
 encryption setting:
 
-```bash
+```
 $ python DisplayInfo.py
 Python version is 2.7.8 (default, Jun 30 2014, 16:03:49) [MSC v.1500 32 bit (Intel)]
 2016-04-04 22:19:09 DEBUG: Permanent license created on 2012-02-14 14:14:45.343000 for 000020
